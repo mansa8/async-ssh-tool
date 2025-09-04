@@ -1,0 +1,8 @@
+{
+  "server_host": "127.0.0.1",
+  "server_port": 2222,
+  "auth_method": "password",
+  "default_username": "admin",
+  "default_password": "securepassword",
+  "server_key_file": "server_key.pem"
+}
