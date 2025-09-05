@@ -72,3 +72,10 @@ This project demonstrates:
 Licensed under GPL-3.0.
 
 Author: Ishaq — Async SSH Tool (Educational Client/Server)
+
+## ☕ Support My Work
+
+If you find my projects helpful and want to support me, you can donate using the addresses below:
+
+- **USDT (TRC-20):** TAW81Mk7z7TTGRMMve91fgAyCGskXVvjy7
+
